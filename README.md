@@ -1,7 +1,7 @@
 # Welcome!!!
 Collaborations, Stuff, Make, Edit, Issues, Suggestions, and anything in Bossfight II :)
 ### Bossfight 2
-Yes some basic noobie java i made those 4 months ago, you can actually __collab with me__ also :P
+Yes some basic noobie java i made those 6 months ago, you can actually __collab with me__ also :P
 ### About me
 - [ ] Doing Make Bossifght II Everyday
 - [x] Doing things i got
